@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lighthouse-io/react-visjs-timeline.git"
+    "url": "git+https://github.com/randaline11/react-visjs-timeline.git"
   },
   "author": "willmcclellan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Lighthouse-io/react-visjs-timeline/issues"
+    "url": "https://github.com/randaline11/react-visjs-timeline/issues"
   },
-  "homepage": "https://github.com/Lighthouse-io/react-visjs-timeline#readme",
+  "homepage": "https://github.com/randaline11/react-visjs-timeline#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-es2015": "^6.24.1",
